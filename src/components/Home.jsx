@@ -33,7 +33,9 @@ const Home = () => {
 
     return ( 
         <div className="home home-background">
-     
+         <h1>hello</h1>
+         <p>hi</p>
+    
 
         {pending===true  &&  <h1>Loading.......</h1>}
 
