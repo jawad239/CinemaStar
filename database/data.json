@@ -1,0 +1,1412 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "moviename": "Kantara",
+      "hero": "Rishab",
+      "heroine": "sapthami gowda",
+      "director": "Rishab shetty",
+      "languages": [
+        "kannada",
+        "tamil",
+        "telugu",
+        "malayalam",
+        "hindi"
+      ],
+      "genre": "divine",
+      "poster": "https://static.toiimg.com/thumb/msid-97698497,width-1280,resizemode-4/97698497.jpg",
+      "trailer": "https://www.youtube.com/embed/ppYoIoW73PI",
+      "release": "2022",
+      "rating": "9.5",
+      "synopsis": "Set in a fictional village of Dakshina Kannada, Kantara is a visual grandeur that brings alive the traditional culture of Kambla and Bhootha Kola. It is believed that Demigods are the guardians and their energies encircle the village. In the story, there is a ripple when a battle of ego swirls along tradition and culture of the land. The soul of the story is on human and nature conflict in which Shiva is the rebellion and works against nature. There are intense conflicts he indulges in. In the end, a much awaiting loop leads to war between the villagers and the evil forces. Will Shiva, the protagonist of the film be able to reinstate peace and harmony in the village perceiving his existence?"
+    },
+    {
+      "id": 2,
+      "moviename": "KGF",
+      "hero": "Yash",
+      "heroine": "Sreenidhi sheety",
+      "director": "Rprashant",
+      "languages": [
+        "kannada",
+        "tamil",
+        "telugu",
+        "malayalam",
+        "hindi"
+      ],
+      "genre": "action",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kgf-chapter-2-et00098647-08-04-2022-11-33-32.jpg",
+      "trailer": "https://www.youtube.com/embed/Qah9sSIXJqk",
+      "release": "2021",
+      "rating": "9.3",
+      "synopsis": "The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their saviour, the government sees him as a threat to law and order; enemies are clamouring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy."
+    },
+    {
+      "id": 3,
+      "moviename": "RRR",
+      "hero": "NTR Ramcharan",
+      "heroine": "alia",
+      "director": "Rajmouli",
+      "languages": [
+        "kannada",
+        "tamil",
+        "telugu",
+        "malayalam",
+        "hindi"
+      ],
+      "genre": "historical",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/rrr-et00094579-12-05-2022-02-26-04.jpg",
+      "trailer": "https://www.youtube.com/embed/GY4BgdUSpbE",
+      "release": "2021",
+      "rating": "8",
+      "synopsis": "RRR is a period drama set in India during the 1920s, revolving around the inspiring journey of two of India`s freedom fighters - Alluri Sitarama Raju and Komaram Bheem."
+    },
+    {
+      "id": 4,
+      "moviename": "apthamitra",
+      "hero": "vishuvardhan",
+      "heroine": "soudariya",
+      "director": "p vasu",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "horror",
+      "poster": "https://m.media-amazon.com/images/I/81duXR-7hOL._SL1420_.jpg",
+      "trailer": "https://www.youtube.com/embed/Gf-qmEbnL0I",
+      "release": "2004",
+      "rating": "10",
+      "synopsis": "stars Vishnuvardhan, Soundarya and Ramesh Arvind in the lead roles with Prema, Dwarakish and Avinash in supporting roles. The movie is a remake of the 1993 Malayalam film Manichithrathazhu.[4] The film was released on 27 August 2004 on Varalakshmi festival to positive reviews.[5]It ran for one-hundred days in theaters across Karnataka and was one of the highest-grossing films of the year.[6] Apthamitra was later followed by its sequel, Aptharakshaka (2010). P. Vasu also remade the film in Tamil in 2005 as Chandramukhi with Rajinikanth and Jyothika in the leads. Actress Soundarya is remembered for her performance in this film?"
+    },
+    {
+      "id": 5,
+      "moviename": "Love mocktail",
+      "hero": "Darling Krishna",
+      "heroine": "Milana Nagaraj , Amrutha",
+      "director": "Darling Krishna",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "romance",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/love-mocktail-et00124382-20-10-2020-09-58-18.jpg",
+      "trailer": "https://www.youtube.com/embed/IsEdANxZD3c",
+      "release": "2020",
+      "rating": "8",
+      "synopsis": "Love moctail is a romantic and fun film about the protagonist Adi`s quest for love. Life takes him through a roller coaster of a ride and he goes through varied experiences at several stages throughout his search for true love. Does Adi finally find his soul mate?"
+    },
+    {
+      "id": 6,
+      "moviename": "Baahubali: The Beginning",
+      "hero": "Prabhas",
+      "heroine": "Anushka Shetty",
+      "director": "S.S. Rajamouli",
+      "languages": [
+        "telugu",
+        "tamil",
+        "hindi"
+      ],
+      "genre": "historical",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI41sPvkxSaDHEm8_ZphnsApD7mRksopHCpQ&usqp=CAU",
+      "trailer": "https://www.youtube.com/embed/sOEg_YZQsTI",
+      "release": "2015",
+      "rating": "8.8",
+      "synopsis": "In the kingdom of Mahishmati, Shivudu, a young man with a curious mind, tries to uncover the mystery behind his past. He falls in love with Avanthika, a warrior who helps him on his quest to free Devasena, a captive princess. His journey leads him to the final showdown with Bhallaladeva, the tyrannical king of Mahishmati."
+    },
+    {
+      "id": 7,
+      "moviename": "3 Idiots",
+      "hero": "Aamir Khan",
+      "heroine": "Kareena Kapoor",
+      "director": "Rajkumar Hirani",
+      "languages": [
+        "hindi"
+      ],
+      "genre": "comedy",
+      "poster": "https://www.koimoi.com/wp-content/new-galleries/2019/12/rajkumar-hiranis-3-idiots-a-story-based-on-the-education-system-that-changed-many-perceptions-completes-a-decade-0001.jpg",
+      "trailer": "https://www.youtube.com/embed/xvszmNXdM4w",
+      "release": "2009",
+      "rating": "8.4",
+      "synopsis": "Farhan Qureshi and Raju Rastogi want to re-unite with their fellow collegian, Rancho, after faking a stroke abroad an Air India plane, and excusing himself from his wife - trouser less - respectively. Enroute, they encounter another student, Chatur Ramalingam, now a successful businessman, who reminds them of a bet they had undertaken 10 years ago. The trio, while recollecting hilarious antics, including their run-ins with the Dean of Delhi's Imperial College of Engineering, Viru Sahastrabudhe, race to locate Rancho, at his last known address - little knowing the secret that was kept from them all this time."
+    },
+    {
+      "id": 8,
+      "moviename": "Bajirao Mastani",
+      "hero": "Ranveer Singh",
+      "heroine": "Deepika Padukone",
+      "director": "Sanjay Leela Bhansali",
+      "languages": [
+        "hindi"
+      ],
+      "genre": "historical",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODk4OWJlODMtMWYxMS00OWI1LTlkNDMtNGU5OTIyODdmOTc1XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+      "trailer": "https://www.youtube.com/embed/eHOc-4D7MjY",
+      "release": "2015",
+      "rating": "7.2",
+      "synopsis": "Bajirao Mastani is a historical romance film based on the love story between Maratha Peshwa Baji Rao I and his second wife Mastani. The film also focuses on the rivalry between Baji Rao and his family with his wife's father, the Muslim emperor of Delhi, who disapproves of their relationship. The film explores the themes of love, loyalty, and sacrifice against the backdrop of the war-torn 19th-century India."
+    },
+    {
+      "id": 9,
+      "moviename": "Dangal",
+      "hero": "Aamir Khan",
+      "heroine": "Fatima Sana Shaikh",
+      "director": "Nitesh Tiwari",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "sports",
+      "poster": "https://imageio.forbes.com/blogs-images/robcain/files/2017/05/Dangal-Hindi-poster.jpg?format=jpg&width=1200",
+      "trailer": "https://www.youtube.com/embed/x_7YlGv9u1g",
+      "release": "2016",
+      "rating": "8.4",
+      "synopsis": "Dangal is a sports drama film based on the true story of wrestler Mahavir Singh Phogat and his daughters, Geeta and Babita. The film explores themes of gender, family, and determination against the backdrop of the male-dominated world of wrestling in rural India."
+    },
+    {
+      "id": 10,
+      "moviename": "Padmaavat",
+      "hero": "Shahid Kapoor",
+      "heroine": "Deepika Padukone",
+      "director": "Sanjay Leela Bhansali",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "historical",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Padmaavat_poster.jpg/220px-Padmaavat_poster.jpg",
+      "trailer": "https://www.youtube.com/embed/X_5_BLt76c0",
+      "release": "2018",
+      "rating": "7.0",
+      "synopsis": "Padmaavat is a period drama based on the legend of Rani Padmavati, a Rajput queen known for her beauty, intellect and courage, who is pursued by the ruthless Sultan of Delhi, Alauddin Khilji. The film explores the themes of honor, sacrifice, and the power of love."
+    },
+    {
+      "id": 11,
+      "moviename": "Kabhi Khushi Kabhie Gham",
+      "hero": "Shahrukh Khan",
+      "heroine": "Kajol",
+      "director": "Karan Johar",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "family drama",
+      "poster": "https://m.media-amazon.com/images/I/81ktGArASlL._AC_UF894,1000_QL80_.jpg",
+      "trailer": "https://www.youtube.com/embed/COaFtRwlfMM",
+      "release": "2001",
+      "rating": "7.4",
+      "synopsis": "Kabhi Khushi Kabhie Gham is a family drama that follows the life of a wealthy Indian family, the Raichands. The film explores themes of family, love, and relationships, and features an ensemble cast that includes some of Bollywood's biggest stars."
+    },
+    {
+      "id": "12",
+      "moviename": "Dia",
+      "hero": "Pruthvi Ambaar",
+      "heroine": "Dheekshitha Venkadeshan",
+      "director": "K S Ashoka",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "romance",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDQxYjRmNWYtNjgyMC00MDg2LTg2OTEtZmIzNWNkMDhkOTk1XkEyXkFqcGdeQXVyMzU0ODc1MTQ@._V1_.jpg    ",
+      "trailer": "https://www.youtube.com/embed/7NjXoMfiwzQ",
+      "release": "2020",
+      "rating": "8.2",
+      "synopsis": "Dia is a romantic drama film about a young woman named Dia who is haunted by her past and struggles to move on. The film explores themes of love, loss, and the power of self-discovery against the backdrop of the scenic beauty of Karnataka."
+    },
+    {
+      "id": 13,
+      "moviename": "Tagaru",
+      "hero": "Shiva Rajkumar",
+      "heroine": "Manvitha Harish",
+      "director": "Duniya Soori",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "action",
+      "poster": "https://www.filmibeat.com/ph-big/2018/02/tagaru-poster_151936572480.jpg",
+      "trailer": "https://www.youtube.com/embed/iNNG1HYjKkM",
+      "release": "2018",
+      "rating": "8.0",
+      "synopsis": "Tagaru is an action-crime drama film about a tough cop named Dolly who takes on a drug mafia in Bangalore. The film explores themes of corruption, loyalty, and betrayal against the backdrop of the gritty underbelly of the city."
+    },
+    {
+      "id": 14,
+      "moviename": "Pariyerum Perumal",
+      "hero": "Kathir",
+      "heroine": "Anandhi",
+      "director": "Mari Selvaraj",
+      "languages": [
+        "Tamil"
+      ],
+      "genre": "socail-issues",
+      "poster": "https://flxt.tmsimg.com/assets/p15996849_p_v8_aa.jpg",
+      "trailer": "https://www.youtube.com/embed/3qoWJaztAa0",
+      "release": "2018",
+      "rating": "8.5",
+      "synopsis": "Pariyerum Perumal is a Tamil drama film that follows the story of a young Dalit law student who faces discrimination from his upper-caste classmates and society. The film explores themes of casteism, discrimination, and friendship, and features a powerful performance by Kathir."
+    },
+    {
+      "id": 15,
+      "moviename": "KGF: Chapter 2",
+      "hero": "Yash",
+      "heroine": "Srinidhi Shetty",
+      "director": "Prashanth Neel",
+      "languages": [
+        "Kannada",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "genre": "action",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDNlNzBjMGUtYTA0Yy00OTI2LWJmZjMtODliYmUyYTI0OGFmXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_SL1024_.jpg",
+      "trailer": "https://www.youtube.com/embed/_GFFZCioeVg",
+      "release": "2021",
+      "rating": "8.5",
+      "synopsis": "KGF: Chapter 2 is a multilingual Indian action-drama film that continues the story of the first film. The film follows Rocky as he navigates the dangerous world of politics and the mining mafia in Kolar Gold Fields. The film features a thrilling storyline, stunning visuals, and a powerful performance by Yash."
+    },
+    {
+      "id": 16,
+      "moviename": "Joji",
+      "hero": "Fahadh Faasil",
+      "heroine": "Unnimaya Prasad",
+      "director": "Dileesh Pothan",
+      "languages": [
+        "Malayalam"
+      ],
+      "genre": "thriller",
+      "poster": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8d937eb4a9bc68d618bada2f087cab798d5d55d59386f2659a57f55de6fcd184._RI_V_TTW_.jpg",
+      "trailer": "https://www.youtube.com/embed/huM7vQCbDg4",
+      "release": "2021",
+      "rating": "8.3",
+      "synopsis": "Joji is a Malayalam drama-thriller film that follows the story of a wealthy family and their youngest son Joji, who yearns for the approval and love of his father. The film explores themes of greed, ambition, and family dynamics, and features a masterful performance by Fahadh Faasil."
+    },
+    {
+      "id": 17,
+      "moviename": "Master",
+      "hero": "Vijay",
+      "heroine": "Malavika Mohanan",
+      "director": "Lokesh Kanagaraj",
+      "languages": [
+        "Tamil",
+        "Telugu"
+      ],
+      "genre": "action",
+      "poster": "https://i0.wp.com/www.primesworld.com/wp-content/uploads/Master-Movie.jpg",
+      "trailer": "https://www.youtube.com/embed/yf8tC4y5J4Q",
+      "release": "2021",
+      "rating": "7.9",
+      "synopsis": "Master is a Tamil action-thriller film that follows the story of a college professor who takes on a gangster and his criminal empire. The film explores themes of corruption, education, and redemption, and features a charismatic performance by Vijay."
+    },
+    {
+      "id": 18,
+      "moviename": "Jersey",
+      "hero": "Nani",
+      "heroine": "Shraddha Srinath",
+      "director": "Gowtam Tinnanuri",
+      "languages": [
+        "Telugu"
+      ],
+      "genre": "sports",
+      "poster": "https://moviegalleri.net/wp-content/gallery/jersey-movie-posters-hd/jersey-movie-posters-hd-nani-shraddha-srinath-1195ba9.jpg",
+      "trailer": "https://www.youtube.com/embed/tK-XRmug-5A",
+      "release": "2019",
+      "rating": "8.4",
+      "synopsis": "Jersey is a Telugu sports drama film that follows the story of a failed cricketer who tries to make a comeback into the sport in order to fulfill his son's dreams. The film explores themes of perseverance, fatherhood, and the power of dreams, and features a heartfelt performance by Nani."
+    },
+    {
+      "id": 19,
+      "moviename": "Uppi 2",
+      "hero": "Upendra",
+      "heroine": "Kristina Akheeva",
+      "director": "Upendra",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "action",
+      "poster": "https://cdna.artstation.com/p/assets/images/images/001/263/036/large/gagana-girish-uppi2.jpg?1443200429",
+      "trailer": "https://www.youtube.com/embed/0Kx1ozRvD5w",
+      "release": "2015",
+      "rating": "7.3",
+      "synopsis": "Uppi 2 is a Kannada psychological thriller film that follows the story of a man who wakes up from a coma and is unsure if he is living in reality or a dream. The film explores themes of perception, reality, and mental health, and features a unique and suspenseful storyline."
+    },
+    {
+      "id": 20,
+      "moviename": "Zindagi Na Milegi Dobara",
+      "hero": "Hrithik Roshan",
+      "heroine": "Katrina Kaif",
+      "director": "Zoya Akhtar",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "comedy",
+      "poster": "https://bestoftheyear.in/wp-content/uploads/2016/03/zindagi-na-milegi-dobara.jpg",
+      "trailer": "https://www.youtube.com/embed/FJrpcDgC3zU",
+      "release": "2011",
+      "rating": "8.1",
+      "synopsis": "Zindagi Na Milegi Dobara is a Bollywood comedy-drama film that follows the story of three friends who go on a bachelor road trip to Spain. The film explores themes of friendship, love, and self-discovery, and features breathtaking visuals and a talented cast."
+    },
+    {
+      "id": 21,
+      "moviename": "Dilwale Dulhania Le Jayenge",
+      "hero": "Shah Rukh Khan",
+      "heroine": "Kajol",
+      "director": "Aditya Chopra",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "romance",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Dilwale_Dulhania_Le_Jayenge_poster.jpg/220px-Dilwale_Dulhania_Le_Jayenge_poster.jpg",
+      "trailer": "https://www.youtube.com/embed/c25GKl5VNeY",
+      "release": "1995",
+      "rating": "8.2",
+      "synopsis": "Dilwale Dulhania Le Jayenge is a Bollywood romantic drama film that tells the story of a young couple who fall in love during a trip to Europe, but must overcome family obstacles in order to be together. The film explores themes of tradition, family values, and love, and features iconic performances by Shah Rukh Khan and Kajol."
+    },
+    {
+      "id": 22,
+      "moviename": "Swades",
+      "hero": "Shah Rukh Khan",
+      "heroine": "Gayatri Joshi",
+      "director": "Ashutosh Gowariker",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "family",
+      "poster": "https://wallpapercave.com/wp/wp6187002.jpg",
+      "trailer": "https://www.youtube.com/embed/y9DQOyHrBP0",
+      "release": "2004",
+      "rating": "8.2",
+      "synopsis": "Swades is a Bollywood drama film that follows the story of an NRI who returns to India to find his childhood nanny and ends up staying to improve the living conditions in a rural village. The film explores themes of patriotism, social responsibility, and self-discovery, and features a moving performance by Shah Rukh Khan."
+    },
+    {
+      "id": 24,
+      "moviename": " Sarkari. Hi. Pra. Shale Kasaragodu",
+      "hero": "Anant Nag",
+      "heroine": "Saptha Pavoor",
+      "director": "Rishab Shetty",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "socail-issues",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/76/Shpskasargodu.jpg",
+      "trailer": "https://www.youtube.com/watch?v=-R5UOtb5lwo",
+      "release": "2018",
+      "rating": "8.3",
+      "synopsis": "Sarkari. Hi. Pra. Shale Kasaragodu, Koduge: Ramanna Rai is a Kannada drama film that explores the struggles of a group of school children and their teachers in a remote village in Karnataka, India. The film sheds light on the importance of education and the challenges faced by those who seek to provide it in underprivileged areas. Starring Anant Nag and Saptha Pavoor, the film was directed by Rishab Shetty and released in 2018."
+    },
+    {
+      "id": 25,
+      "moviename": "Avane Srimannarayana",
+      "hero": "Rakshit Shetty",
+      "heroine": "Shanvi Srivastava",
+      "director": "Sachin Ravi",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "action-comedy",
+      "poster": "https://1.bp.blogspot.com/-FtCOz9lGIp4/XaSGTxoJr6I/AAAAAAAAPU8/sggnMfQGzb0PdD5TjNp2wJlyQzF0RV3eQCLcBGAsYHQ/s1600/Avane-Srimannarayana-Budget-Hit-or-Flop-Box-Office-Collection.webp",
+      "trailer": "https://www.youtube.com/watch?v=rEL2zV7AvyA",
+      "release": "2019",
+      "rating": "8.3",
+      "synopsis": "Avane Srimannarayana is a Kannada action-comedy-fantasy film that follows the adventures of a corrupt police officer who must solve a century-old mystery in order to find hidden treasure. Starring Rakshit Shetty and Shanvi Srivastava, the film was directed by Sachin Ravi and released in 2019 to critical acclaim."
+    },
+    {
+      "id": 26,
+      "moviename": "Kirik Party",
+      "hero": "Rakshit Shetty",
+      "heroine": "Rashmika Mandanna",
+      "director": "Rishab Shetty",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "comedy",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjYwODc5ZmQtZDVjOC00Mjk4LTk2NTYtMGVhNjIyZTVjYzhlXkEyXkFqcGdeQXVyMjY1MjkzMjE@._V1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=_-sU2uGxfJk",
+      "release": "2016",
+      "rating": "8.6",
+      "synopsis": "Kirik Party is a Kannada comedy-drama film that follows the journey of a group of college students as they navigate friendship, love, and life. Starring Rakshit Shetty and Rashmika Mandanna, the film was directed by Rishab Shetty and released in 2016 to critical and commercial success."
+    },
+    {
+      "id": 27,
+      "moviename": "Bajrangi Bhaijaan",
+      "hero": "Salman Khan",
+      "heroine": "Kareena Kapoor Khan",
+      "director": "Kabir Khan",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "family",
+      "poster": "https://img1.hotstarext.com/image/upload/f_auto,t_vl/sources/r1/cms/prod/old_images/vertical/MOVIE/1777/1000071777/1000071777-v",
+      "trailer": "https://www.youtube.com/watch?v=OzZzTmFvOuU",
+      "release": "2015",
+      "rating": "8.0",
+      "synopsis": "Bajrangi Bhaijaan is a Hindi-language drama film directed by Kabir Khan. The film stars Salman Khan, Kareena Kapoor Khan, and Nawazuddin Siddiqui in lead roles. The story follows a young mute girl from Pakistan who gets lost in India and how a man helps her reunite with her family."
+    },
+    {
+      "id": 28,
+      "moviename": "Singham",
+      "hero": "Ajay Devgn",
+      "heroine": "Kajal Aggarwal",
+      "director": "Rohit Shetty",
+      "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "Kannada",
+        "Malayalam"
+      ],
+      "genre": "action",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/a/ac/Singham_%282011_Hindi_film%29_Theatrical_poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=amLWKjcYdDg",
+      "release": "2011",
+      "rating": "6.7",
+      "synopsis": "Singham is a Hindi-language action drama film directed by Rohit Shetty. The film stars Ajay Devgn and Kajal Aggarwal in lead roles. The story follows a police officer's fight against corruption and injustice in his town."
+    },
+    {
+      "id": 29,
+      "moviename": "2 States",
+      "hero": "Arjun Kapoor",
+      "heroine": "Alia Bhatt",
+      "director": "Abhishek Varman",
+      "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "genre": "romance",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/12/2_States_poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=CGyAaR2aWcA",
+      "release": "2014",
+      "rating": "6.9",
+      "synopsis": "2 States is a Bollywood romantic drama film based on Chetan Bhagat's novel of the same name. The movie follows the story of Krish and Ananya, two college students from different cultural backgrounds who fall in love and face opposition from their families. Directed by Abhishek Varman, the film features Arjun Kapoor and Alia Bhatt in the lead roles and was released in 2014."
+    },
+    {
+      "id": 30,
+      "moviename": "Kick",
+      "hero": "Salman Khan",
+      "heroine": "Jacqueline Fernandez",
+      "director": "Sajid Nadiadwala",
+      "languages": [
+        "Hindi",
+        "Telugu"
+      ],
+      "genre": "action",
+      "poster": "https://resize.indiatvnews.com/en/resize/oldbucket/730_-/entertainmentbollywood/Kick-movie-revi15882.jpg",
+      "trailer": "https://www.youtube.com/watch?v=u-j1nx_HY5o",
+      "release": "2014",
+      "rating": "5.4",
+      "synopsis": "Kick is an action thriller Bollywood film that follows the story of a man named Devi who seeks adventure and thrill in his life. Starring Salman Khan and Jacqueline Fernandez in lead roles, the film was directed by Sajid Nadiadwala and was released in 2014. The movie features high-octane action scenes and a memorable soundtrack."
+    },
+    {
+      "id": 31,
+      "moviename": "Chhichhore",
+      "hero": "Sushant Singh Rajput",
+      "heroine": "Shraddha Kapoor",
+      "director": "Nitesh Tiwari",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "comedy",
+      "poster": " https://m.media-amazon.com/images/M/MV5BNmQ1ZWVkYzctYzlmNy00MTMxLWEwZmItM2I4ZTRhNjY5ODBjXkEyXkFqcGdeQXVyMTA1MzU4Mjk5._V1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=tsxemFX0a7k",
+      "release": "2019",
+      "rating": "8.1",
+      "synopsis": "Chhichhore is a Hindi comedy-drama film that follows the story of a group of friends who reunite after many years to relive their college memories and support their children who are going through a difficult time. Starring Sushant Singh Rajput and Shraddha Kapoor in the lead roles, the film was directed by Nitesh Tiwari and released in 2019. The movie's message of hope and resilience struck a chord with audiences, making it a critical and commercial success."
+    },
+    {
+      "id": 32,
+      "moviename": "Gaali Pata",
+      "hero": "Raj B. Shetty",
+      "heroine": "Bhavana Rao",
+      "director": "Raghu Shivamogga",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "romance",
+      "poster": " https://m.media-amazon.com/images/I/51ndR5XJswL.jpg",
+      "trailer": "https://www.youtube.com/watch?v=6Fr0c0m-EKc",
+      "release": "2021",
+      "rating": "8.1",
+      "synopsis": "Gaali Pata is a Kannada drama film that explores the life of a young man named Partho, who lives in a small village and has a passion for writing. The film takes the audience on a journey through Partho's life, as he faces various challenges and obstacles in his pursuit of his dreams. Starring Raj B. Shetty and Bhavana Rao in the lead roles, the film was directed by Raghu Shivamogga and released in 2021 to critical acclaim."
+    },
+    {
+      "id": 33,
+      "moviename": "Total Dhamaal",
+      "hero": "Ajay Devgn",
+      "heroine": "Madhuri Dixit",
+      "director": "Indra Kumar",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "comedy",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTUyY2IxODgtZjI5Yy00YjE5LWJjOGQtYWU4MjI5OTdkN2MwXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=fo9EhcwQXpI",
+      "release": "2019",
+      "rating": "5.0",
+      "synopsis": "Total Dhamaal is a Bollywood comedy-adventure film that follows a group of people who embark on a treasure hunt, facing various obstacles and challenges along the way. Starring Ajay Devgn and Madhuri Dixit in the lead roles, the film was directed by Indra Kumar and released in 2019. Despite receiving mixed reviews, the film was a commercial success at the box office."
+    },
+    {
+      "id": 34,
+      "moviename": "Super 30",
+      "hero": "Hrithik Roshan",
+      "heroine": "Mrunal Thakur",
+      "director": "Vikas Bahl",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "biography",
+      "poster": "https://c.ndtvimg.com/2l9m84l_super-30,-hrithik-roshan_625x300_05_September_18.jpg",
+      "trailer": "https://www.youtube.com/watch?v=QpvEWVVnICE",
+      "release": "2019",
+      "rating": "8.0",
+      "synopsis": "Super 30 is a Bollywood biographical drama film based on the life of mathematician Anand Kumar, who runs the Super 30 programme for IIT-JEE aspirants in Patna. The film stars Hrithik Roshan in the lead role of Anand Kumar, and Mrunal Thakur as his love interest. Directed by Vikas Bahl, the film released in 2019 and received positive reviews from both critics and audiences."
+    },
+    {
+      "id": 35,
+      "moviename": "Maanikya",
+      "hero": "Sudeep",
+      "heroine": "Varalaxmi Sarathkumar",
+      "director": "Sudeep",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "action",
+      "poster": " https://m.media-amazon.com/images/M/MV5BNDQyMWExNDMtNTc4OS00ZWU1LTlmYTUtZGNiNDJlOTczM2M1XkEyXkFqcGdeQXVyMzU0ODc1MTQ@._V1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=HJFWBmSgB1Y",
+      "release": "2014",
+      "rating": "7.9",
+      "synopsis": "Maanikya is a Kannada action-drama film directed by Sudeep, who also stars in the lead role. The film follows the story of a young man who is separated from his family and adopted by a wealthy businessman. When he discovers the truth about his past, he sets out to seek revenge against those who wronged his family. Varalaxmi Sarathkumar plays the female lead in the film. Maanikya was released in 2014 and was a commercial success at the box office."
+    },
+    {
+      "id": 36,
+      "moviename": "Mussanje Maathu",
+      "hero": "Sudeep",
+      "heroine": "Ramya",
+      "director": "M.S.Ramesh",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "romance",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWU3ZDU5YTgtZjFlOS00NTE2LWFiY2YtMzMwYTdmMDcyMThhXkEyXkFqcGdeQXVyMzU0ODc1MTQ@._V1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=5WnMxruMfgo",
+      "release": "2008",
+      "rating": "7.6",
+      "synopsis": "Mussanje Maathu is a Kannada romantic drama film starring Sudeep and Ramya in lead roles. The film follows the story of a journalist, who falls in love with a young woman, but their relationship is opposed by their families due to their different backgrounds. As they try to navigate their way through the obstacles, they face a number of challenges that test the strength of their love. Directed by M.S.Ramesh, the film was released in 2008 and was a commercial success at the box office."
+    },
+    {
+      "id": 39,
+      "moviename": "Ayya",
+      "hero": "Darshan",
+      "heroine": "Rakshitha",
+      "director": "Om Prakash Rao",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "action",
+      "poster": "https://kannadamoviesinfo.files.wordpress.com/2013/10/ayya-2005.jpg",
+      "trailer": "https://www.youtube.com/watch?v=c_jRnygJfY4",
+      "release": "2005",
+      "rating": "7.5",
+      "synopsis": "Ayya is a Kannada action-drama film starring Darshan and Rakshitha in lead roles. The film tells the story of a young man who returns to his village after serving a prison sentence for a crime he did not commit. He seeks revenge against those who wronged him and also tries to clear his name. Along the way, he meets a young woman and they fall in love, but their happiness is threatened by the villains. As the young man fights for justice and to protect his loved ones, he faces a number of challenges and obstacles that test his strength and determination. Directed by Om Prakash Rao, the film was released in 2005 and was a commercial success at the box office."
+    },
+    {
+      "id": 40,
+      "moviename": "Ek Tha Tiger",
+      "hero": "Salman Khan",
+      "heroine": "Katrina Kaif",
+      "director": "Kabir Khan",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "action-romance",
+      "poster": "https://wallpapercave.com/wp/wp6935349.jpg",
+      "trailer": "https://www.youtube.com/watch?v=5ywjpbThDpE",
+      "release": "2012",
+      "rating": "5.5",
+      "synopsis": "Ek Tha Tiger is a Bollywood action-romance-thriller film starring Salman Khan and Katrina Kaif in lead roles. The film tells the story of a RAW agent who falls in love with a Pakistani spy during a mission in Dublin. Together, they try to solve a mystery and prevent a terrorist attack. The film was directed by Kabir Khan and released in 2012 to commercial success and mixed critical reception. The music and action sequences of the film were particularly praised."
+    },
+    {
+      "id": 41,
+      "moviename": "Bodyguard",
+      "hero": "Salman Khan",
+      "heroine": "Kareena Kapoor",
+      "director": "Siddique",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "action-romance",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWUxYTFjNDAtZjlmZC00ODBhLTk1ZDYtOTY0NWJlYWM2OTAyXkEyXkFqcGdeQXVyMTQ3OTM0MDA3._V1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=Juj2v4JLS9s",
+      "release": "2011",
+      "rating": "4.6",
+      "synopsis": "Bodyguard is a Bollywood action-comedy-romance film that tells the story of a dedicated bodyguard who falls in love with the woman he is assigned to protect. Starring Salman Khan and Kareena Kapoor in lead roles, the film was directed by Siddique and released in 2011 to commercial success and mixed critical reception. The film's music and Salman Khan's performance were particularly praised."
+    },
+    {
+      "id": 42,
+      "moviename": "Sultan",
+      "hero": "Salman Khan",
+      "heroine": "Anushka Sharma",
+      "director": "Ali Abbas Zafar",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "sports",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/1f/Sultan_film_poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=wPxqcq6Byq0",
+      "release": "2016",
+      "rating": "7.0",
+      "synopsis": "Sultan is a Bollywood sports-drama film that follows the journey of a wrestler who rises from a small-town champion to an Olympic medallist. Starring Salman Khan and Anushka Sharma in lead roles, the film was directed by Ali Abbas Zafar and released in 2016 to critical and commercial success. The film's music, performances, and action sequences were particularly praised."
+    },
+    {
+      "id": 43,
+      "moviename": "Dabangg",
+      "hero": "Salman Khan",
+      "heroine": "Sonakshi Sinha",
+      "director": "Abhinav Kashyap",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "action-comedy",
+      "poster": "https://bestoftheyear.in/wp-content/uploads/2016/03/dabangg.jpeg",
+      "trailer": "https://www.youtube.com/watch?v=K5R7QMpxfCg",
+      "release": "2010",
+      "rating": "6.2",
+      "synopsis": "Dabangg is a Bollywood action-comedy film that tells the story of Chulbul Pandey, a fearless but corrupt police officer who takes on a local goon and his gang. Starring Salman Khan and Sonakshi Sinha, the film was directed by Abhinav Kashyap and released in 2010 to commercial and critical success. The film's dialogues, music, and action sequences were particularly praised and it went on to become one of the highest-grossing Bollywood films of the year."
+    },
+    {
+      "id": 44,
+      "moviename": "Wanted",
+      "hero": "Salman Khan",
+      "heroine": "Ayesha Takia",
+      "director": "Prabhudheva",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "action",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjI4ZTNmZTYtNTFhZC00Y2RkLTgyM2YtYmZkODZjNWNhMTQyXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=iNdrcpJe9dA",
+      "release": "2009",
+      "rating": "6.6",
+      "synopsis": "Wanted is a Bollywood action-thriller film that follows the story of Radhe, a ruthless hitman who is hired by a drug lord to eliminate his rivals. Starring Salman Khan and Ayesha Takia, the film was directed by Prabhudheva and released in 2009 to commercial success. The film's action sequences and music were particularly praised, and it marked a turning point in Salman Khan's career, helping to cement his status as one of Bollywood's biggest superstars."
+    },
+    {
+      "id": 45,
+      "moviename": "Kuch Kuch Hota Hai",
+      "hero": "Shah Rukh Khan",
+      "heroine": "Kajol",
+      "director": "Karan Johar",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "romance",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGNhNWMwNTgtZmNlOS00OGM3LWIxYzItOWQwZDJjMzQ3MzRlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=duOngC6fWzY",
+      "release": "1998",
+      "rating": "7.6",
+      "synopsis": "Kuch Kuch Hota Hai is a Bollywood romantic drama film directed by Karan Johar and released in 1998. Starring Shah Rukh Khan and Kajol in the lead roles, the film follows the story of two college friends, Rahul and Anjali, who reunite years later and discover they still have feelings for each other."
+    },
+    {
+      "id": 46,
+      "moviename": "Dilwale Dulhania Le Jayenge",
+      "hero": "Shah Rukh Khan",
+      "heroine": "Kajol",
+      "director": "Aditya Chopra",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "romance",
+      "poster": "https://imageio.forbes.com/specials-images/imageserve/63669798d858002c4e13b517/0x0.jpg?format=jpg&crop=499,280,x0,y68,safe&width=1200",
+      "trailer": "https://www.youtube.com/watch?v=1U9SpwJ9TCs",
+      "release": "1995",
+      "rating": "8.1",
+      "synopsis": "Dilwale Dulhania Le Jayenge is a classic Hindi romance film that follows the love story of Raj and Simran, two young people from different cultural backgrounds. Starring Shah Rukh Khan and Kajol, the film was directed by Aditya Chopra and released in 1995. It is one of the most successful and beloved Bollywood films of all time."
+    },
+    {
+      "id": 47,
+      "moviename": "Mohabbatein",
+      "hero": "Shahrukh Khan",
+      "heroine": "Aishwarya Rai Bachchan",
+      "director": "Aditya Chopra",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "romance",
+      "poster": " https://www.themoviedb.org/t/p/original/zB7zJQgk4pPoxsPzZP0CqUgHuXN.jpg",
+      "trailer": "https://www.youtube.com/watch?v=xyVpLI5Qt1Q",
+      "release": "2000",
+      "rating": "7.4",
+      "synopsis": "Mohabbatein is a musical romantic drama film directed by Aditya Chopra. The film stars Shahrukh Khan, Aishwarya Rai Bachchan and Amitabh Bachchan in the lead roles. It tells the story of a strict headmaster of a prestigious all-boys school who forbids love amongst his students and the three boys who rebel against him by falling in love. Released in 2000, the film was a commercial success and received positive reviews from critics."
+    },
+    {
+      "id": 48,
+      "moviename": "Chak De! India",
+      "hero": "Shah Rukh Khan",
+      "heroine": "",
+      "director": "Shimit Amin",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "sports",
+      "poster": "https://static.toiimg.com/photo/60061691.cms",
+      "trailer": "https://www.youtube.com/watch?v=6a0-dSMWm5g",
+      "release": "2007",
+      "rating": "8.2",
+      "synopsis": "Chak De! India is a sports drama film directed by Shimit Amin and starring Shah Rukh Khan. The film follows the journey of the Indian women's national field hockey team and their coach Kabir Khan, who faces a lot of challenges while trying to lead the team to victory. The film was released in 2007 to critical acclaim and was a commercial success."
+    },
+    {
+      "id": 49,
+      "moviename": "Taare Zameen Par",
+      "hero": "Darsheel Safary",
+      "heroine": "",
+      "director": "Aamir Khan",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "family",
+      "poster": "https://www.meinstyn.com/wp-content/uploads/2017/02/Taare-Zameen-Par-Movie-Poster-Aamir-Khan-Darsheel-Safary-Full-HD-Desktop-Wallpaper-784x1080.jpg",
+      "trailer": "https://www.youtube.com/watch?v=tn_2Ie_jtX8",
+      "release": "2007",
+      "rating": "8.4",
+      "synopsis": "Taare Zameen Par is a heartwarming Hindi drama film directed by Aamir Khan, starring Darsheel Safary. The film tells the story of an eight-year-old boy, Ishaan, who struggles in school due to dyslexia, and the efforts of his art teacher to help him. The movie highlights the importance of individuality and acceptance and was released in 2007 to critical and commercial success."
+    },
+    {
+      "id": 50,
+      "moviename": "PK",
+      "hero": "Aamir Khan",
+      "heroine": "Anushka Sharma",
+      "director": "Rajkumar Hirani",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "comedy",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@._V1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=SOXWc32k4zA",
+      "release": "2014",
+      "rating": "8.1",
+      "synopsis": "PK is a Hindi comedy-drama film that follows an alien (played by Aamir Khan) who lands on Earth and questions the beliefs and practices of human society. The film also stars Anushka Sharma and was directed by Rajkumar Hirani. Released in 2014, PK received critical acclaim and became one of the highest-grossing Indian films of all time."
+    },
+    {
+      "id": 51,
+      "moviename": "Lagaan",
+      "hero": "Aamir Khan",
+      "heroine": "Gracy Singh",
+      "director": "Ashutosh Gowariker",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "sports",
+      "poster": "https://m.media-amazon.com/images/I/91ZWAeRiIVS._SL1500_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=oSIGQ0YkFxs",
+      "release": "2001",
+      "rating": "8.1",
+      "synopsis": "Lagaan is a Hindi period sports drama film that follows the story of a group of villagers who, burdened by high taxes, challenge their British colonizers to a game of cricket. Starring Aamir Khan and Gracy Singh, the film was directed by Ashutosh Gowariker and released in 2001 to critical and commercial success. It was also nominated for the Academy Award for Best Foreign Language Film."
+    },
+    {
+      "id": 52,
+      "moviename": "Secret Superstar",
+      "hero": "",
+      "heroine": "Zaira Wasim",
+      "director": "Advait Chandan",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "music",
+      "poster": "https://image.songsuno.com/movie-images/original/movie/secret-superstar/secret-superstar-poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=ym1PTxXYNys",
+      "release": "2017",
+      "rating": "8.0",
+      "synopsis": "Secret Superstar is a heartwarming tale of a young girl named Insia who aspires to be a singer but faces opposition from her conservative father. With the help of a supportive mother and a music director, she uploads videos of herself singing anonymously on the internet, becoming an overnight sensation. The film stars Zaira Wasim in the lead role and was directed by Advait Chandan. It was released in 2017 to critical and commercial success."
+    },
+    {
+      "id": 53,
+      "moviename": "Tarak",
+      "hero": "Darshan",
+      "heroine": "Sruthi Hariharan",
+      "director": "Prakash",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "drama",
+      "poster": "https://media-cache.cinematerial.com/p/500x/kwtuaj7h/tarak-indian-movie-poster.jpg?v=1506543276",
+      "trailer": "https://www.youtube.com/watch?v=uZMNGsX9SPs",
+      "release": "2017",
+      "rating": "7.2",
+      "synopsis": "Tarak is a Kannada action-drama film starring Darshan in the lead role, along with Sruthi Hariharan. Directed by Prakash, the film follows the story of a young man who seeks revenge against those who have wronged him and his family. Released in 2017, the film received positive reviews from critics and was a commercial success."
+    },
+    {
+      "id": 54,
+      "moviename": "Jaggu Dada",
+      "hero": "Darshan",
+      "heroine": "Deeksha Seth",
+      "director": "Raghavendra Hegde",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "comedy",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGZkNTIzM2QtMmUxYS00NDVjLWE3ODItNzEyNGFkZDZiNDUwXkEyXkFqcGdeQXVyNTE0NDY5Njc@._V1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=FV7Zu0h4pN4",
+      "release": "2016",
+      "rating": "7.1",
+      "synopsis": "Jaggu Dada is a Kannada action-comedy film starring Darshan in the lead role. The film follows the story of Jaggu Dada, a small-time gangster, who becomes a big-time don in order to fulfill his mother's wishes. Directed by Raghavendra Hegde, the film also stars Deeksha Seth and Raj Singh Bedi in supporting roles. Released in 2016, the film was a commercial success."
+    },
+    {
+      "id": 55,
+      "moviename": "Mr. Airavata",
+      "hero": "Darshan",
+      "heroine": "Urvashi Rautela",
+      "director": "A. P. Arjun",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "action",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTQyMmYyZDQtZjIyOS00OTQ1LTllOTMtYmM1Nzg1ZGUyZTVmXkEyXkFqcGdeQXVyNTQ5MTQ2MTI@._V1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=OBOcjtrcN4s",
+      "release": "2015",
+      "rating": "5.3",
+      "synopsis": "Mr. Airavata is a Kannada action-drama film starring Darshan as a cop named Mr. Airavata, who goes above and beyond the call of duty to bring criminals to justice. Directed by A. P. Arjun and released in 2015, the film also stars Urvashi Rautela."
+    },
+    {
+      "id": 56,
+      "moviename": "Odeya",
+      "hero": "Darshan",
+      "heroine": "Sanah Thimmayyah",
+      "director": "MD Sridhar",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "action",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGQyZmY1ZjItZGU0OS00Mjg3LWFkY2ItMjJmMDNlNDhlMjQ2XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=iBooKvDeQ-g",
+      "release": "2019",
+      "rating": "7.1",
+      "synopsis": "Odeya is a Kannada action-drama film starring Darshan and Sanah Thimmayyah in lead roles. The movie was directed by MD Sridhar and released in 2019. The story follows the journey of Gajendra, a man who comes to a village and fights against injustice and corrupt politicians to save the people of the village."
+    },
+    {
+      "id": 57,
+      "moviename": "Yuvarathnaa",
+      "hero": "Puneeth Rajkumar",
+      "heroine": "Sayyeshaa Saigal",
+      "director": "Santhosh Ananddram",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "action",
+      "poster": "https://static.toiimg.com/photo/msid-77281773/77281773.jpg",
+      "trailer": "https://www.youtube.com/watch?v=CQGqlfNJzjE",
+      "release": "2021",
+      "rating": "7.7",
+      "synopsis": "Yuvarathnaa is a Kannada action-drama film starring Puneeth Rajkumar and Sayyeshaa Saigal in lead roles. The movie was directed by Santhosh Ananddram and released in 2021. The story follows the journey of Rocky, a college student who fights against corrupt practices in the education system and aims to bring about change and justice in society."
+    },
+    {
+      "id": 58,
+      "moviename": "Rajkumaraa",
+      "hero": "Puneeth Rajkumar",
+      "heroine": "Priya Anand",
+      "director": "Santhosh Ananddram",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "action",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWExNmRhODgtYTc0MC00ZGYwLTk1ZjktNDU0NzE4MjQwN2FkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjIwMzY4NDY@._V1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=21NL6cZU9m0",
+      "release": "2017",
+      "rating": "8.3",
+      "synopsis": "Rajkumaraa is a Kannada action-drama film starring Puneeth Rajkumar and Priya Anand in lead roles. The movie was directed by Santhosh Ananddram and released in 2017. The story follows the journey of Siddharth, a college student who comes back to his village to take care of his family after his father's death. He faces various challenges and fights against corruption and injustice in the society."
+    },
+    {
+      "id": 59,
+      "moviename": "Prithvi",
+      "hero": "Puneeth Rajkumar",
+      "heroine": "Parvathy Thiruvothu",
+      "director": "Jacob Varghese",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "action",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMmNhYTMxM2QtNDBhNS00NzlhLTlhZGQtOTQwOGUyOGY2OGE4XkEyXkFqcGdeQXVyMzQzMDc2MDk@._V1_FMjpg_UX1000_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=iNcOyD43jKg",
+      "release": "2010",
+      "rating": "7.2",
+      "synopsis": "Prithvi is a Kannada action-drama film directed by Jacob Varghese, starring Puneeth Rajkumar and Parvathy Thiruvothu in the lead roles. The movie follows the story of a young man who fights for justice against a powerful politician who has committed atrocities in his village. The film received positive reviews for its performances, storyline, and action sequences."
+    },
+    {
+      "id": 60,
+      "moviename": "Power",
+      "hero": "Puneeth Rajkumar",
+      "heroine": "Trisha Krishnan",
+      "director": "K Madesh",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "action",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTRkZTVjNTgtZTNjYi00Njc3LTg5YjUtMmQ3YWFmZWM0YmZkXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=ZYf8xKj1S7Y",
+      "release": "2014",
+      "rating": "7.2",
+      "synopsis": "Power is a Kannada action-drama film starring Puneeth Rajkumar and Trisha Krishnan in lead roles. The movie was directed by K Madesh and released in 2014. The story revolves around the life of a police officer, who is assigned to a special task force to investigate a series of murders. He uncovers a web of corruption and deceit, and takes on the powerful people involved in the conspiracy, all while trying to protect his loved ones."
+    },
+    {
+      "id": 61,
+      "moviename": "Anjaniputra",
+      "hero": "Puneeth Rajkumar",
+      "heroine": "Rashmika Mandanna",
+      "director": "A. Harsha",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "action",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmQ4MGNiM2EtZjEzOC00YjIyLWI2YTAtMzA3MGIyM2JiNGFkXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=1lxnf-ZCtGg",
+      "release": "2017",
+      "rating": "7.5",
+      "synopsis": "Anjaniputra is a Kannada action-drama film starring Puneeth Rajkumar and Rashmika Mandanna in lead roles. The movie was directed by A. Harsha and released in 2017. The story follows the journey of a young man named Anjaniputra who takes on a local goon to protect his family and his love interest from harm. The movie features high-octane action sequences and emotional drama."
+    },
+    {
+      "id": 62,
+      "moviename": "Arasu",
+      "hero": "Puneeth Rajkumar",
+      "heroine": "Ramya",
+      "director": "Mahesh Babu",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "action",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjgzNGY5Y2ItYTBhMi00YzE0LWFiMjAtMzg5OTEzMzhkM2JjXkEyXkFqcGdeQXVyNTk1OTgyMzk@._V1_FMjpg_UX1000_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=4b_TZMfUMA8",
+      "release": "2007",
+      "rating": "7.2",
+      "synopsis": "Arasu is a Kannada action-drama film starring Puneeth Rajkumar and Ramya in lead roles. The movie was directed by Mahesh Babu and released in 2007. The story follows the journey of Arasu, a young man who comes to Bangalore to earn a living but ends up being a bodyguard for a politician. He later decides to fight against corruption in politics and society, leading to a series of intense action sequences."
+    },
+    {
+      "id": 63,
+      "moviename": "Just Maath Maathalli",
+      "hero": "Sudeep",
+      "heroine": "Ramya",
+      "director": "Sudeep",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "romance",
+      "poster": "https://img1.hotstarext.com/image/upload/f_auto,t_vl/sources/r1/cms/prod/8788/528788-v",
+      "trailer": "https://www.youtube.com/watch?v=bDpLZoN3NzE",
+      "release": "2010",
+      "rating": "7.2",
+      "synopsis": "Just Maath Maathalli is a Kannada romance film starring Sudeep and Ramya in lead roles. The movie was directed by Sudeep and released in 2010. The story follows the lives of two couples, their relationships, and the challenges they face in life. The film is known for its popular soundtrack and performances by the lead actors."
+    },
+    {
+      "id": 64,
+      "moviename": "Musaanje Maathu",
+      "hero": "Sudeep",
+      "heroine": "Ramya",
+      "director": "Mussanje Mahesh",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "romance",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWU3ZDU5YTgtZjFlOS00NTE2LWFiY2YtMzMwYTdmMDcyMThhXkEyXkFqcGdeQXVyMzU0ODc1MTQ@._V1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=_xDxU6zWk10",
+      "release": "2006",
+      "rating": "8.1",
+      "synopsis": "Musaanje Maathu is a Kannada romantic drama film starring Sudeep and Ramya in lead roles. The movie was directed by Mussanje Mahesh and released in 2006. The story revolves around the relationship between a radio jockey and a blind girl who fall in love with each other. It explores the challenges they face due to their disability and societal pressures."
+    },
+    {
+      "id": 65,
+      "moviename": "Pailwaan",
+      "hero": "Sudeep",
+      "heroine": "Aakanksha Singh, Suniel Shetty",
+      "director": "S. Krishna",
+      "languages": [
+        "Kannada",
+        "Hindi",
+        "Telugu",
+        "Tamil",
+        "Malayalam"
+      ],
+      "genre": "sports",
+      "poster": "https://e1.pxfuel.com/desktop-wallpaper/951/102/desktop-wallpaper-watch-pailwaan-pailwaan.jpg",
+      "trailer": "https://www.youtube.com/watch?v=HKTSw6cC1bQ",
+      "release": "2019",
+      "rating": "6.8",
+      "synopsis": "Pailwaan is a Kannada sports-drama film starring Sudeep, Aakanksha Singh and Suniel Shetty in lead roles. The movie was directed by S. Krishna and released in 2019. The story revolves around a wrestler who falls in love with a young woman and decides to leave the wrestling world. However, he is forced to return to the ring to save his coach's son from the clutches of an evil businessman."
+    },
+    {
+      "id": 66,
+      "moviename": "Hebbuli",
+      "hero": "Sudeep",
+      "heroine": "Amala Paul",
+      "director": "S. Krishna",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "action",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTg0NmUzOTUtZDIzMS00NzY4LTkyNmYtNDFmYTZiYTg2N2NiXkEyXkFqcGdeQXVyMzU0ODc1MTQ@._V1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=B_LyEQDufQw",
+      "release": "2017",
+      "rating": "7.6",
+      "synopsis": "Hebbuli is a Kannada action-thriller film starring Sudeep and Amala Paul in lead roles. The movie was directed by S. Krishna and released in 2017. The story follows the journey of Captain Ram, an Army officer who sets out to expose the corrupt practices of the system and the illegal activities of a powerful businessman. Hebbuli deals with themes of patriotism, sacrifice, and justice."
+    },
+    {
+      "id": 67,
+      "moviename": "Masterpiece",
+      "hero": "Yash",
+      "heroine": "Shanvi Srivastava",
+      "director": "Manju Mandavya",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "action",
+      "poster": "https://www.themoviedb.org/t/p/w500/tdPaOUzoASd0Dg26bxTvKXnLTHB.jpg",
+      "trailer": "https://www.youtube.com/watch?v=0d96awBvkwI",
+      "release": "2015",
+      "rating": "7.3",
+      "synopsis": "Masterpiece is a Kannada action-drama film directed by Manju Mandavya, starring Yash and Shanvi Srivastava in lead roles. The film was released in 2015 and follows the story of Yuva, a college student who falls in love with a girl named Nisha. When Nisha's father is framed for a crime he didn't commit, Yuva sets out to clear his name and bring the real culprits to justice."
+    },
+    {
+      "id": 68,
+      "moviename": "Mr and Mrs Ramachari",
+      "hero": "Yash",
+      "heroine": "Radhika Pandit",
+      "director": "Santhosh Ananddram",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "romance",
+      "poster": "https://i.pinimg.com/originals/2a/81/c1/2a81c19a1360eb828ba60b2f4abb7915.jpg",
+      "trailer": "https://www.youtube.com/watch?v=Uo6B2PSAFaw",
+      "release": "2014",
+      "rating": "7.4",
+      "synopsis": "Mr and Mrs Ramachari is a romantic drama film directed by Santhosh Ananddram and starring Yash and Radhika Pandit in the lead roles. The movie was released in 2014 and was a commercial success. The story revolves around the lives of Ramachari and Divya, who fall in love but face challenges from their families and society. The movie explores themes of love, family, and societal norms."
+    },
+    {
+      "id": 69,
+      "moviename": "Gajakesari",
+      "hero": "Yash",
+      "heroine": "Amulya",
+      "director": "Krishna",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "action",
+      "poster": "https://m.media-amazon.com/images/I/71LpEXgxqNL._SL1103_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=qr04iRMGuL8",
+      "release": "2014",
+      "rating": "7.6",
+      "synopsis": "Gajakesari is a Kannada action-drama film starring Yash and Amulya in lead roles. The movie was directed by Krishna and released in 2014. The story follows the journey of Krishna, a brave soldier who returns to his village after completing his service and saves the villagers from a group of dacoits. He also finds love and learns about his past and heritage in the process."
+    },
+    {
+      "id": 70,
+      "moviename": "Santhu Straight Forward",
+      "hero": "Yash",
+      "heroine": "Radhika Pandit",
+      "director": "Mahesh Rao",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "action-romance",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWRmMWM0NWUtYmMyNy00ZmQwLWJlNzktYzUyYTEwNmFmZDIxXkEyXkFqcGdeQXVyNTE0NDY5Njc@._V1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=h0n6r9nWdi8",
+      "release": "2016",
+      "rating": "6.8",
+      "synopsis": "Santhu Straight Forward is a Kannada action-romance film starring Yash and Radhika Pandit in lead roles. The movie was directed by Mahesh Rao and released in 2016. The story follows the journey of Santhu, a carefree young man who falls in love with Ananya. But things take a turn when Santhu gets involved in a fight and has to leave the city. He then starts a new life in a village and tries to move on from his past, but his past catches up with him."
+    },
+    {
+      "id": 71,
+      "moviename": "Mungaru Male",
+      "hero": "Ganesh",
+      "heroine": "Pooja Gandhi",
+      "director": "Yograj Bhat",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "romance",
+      "poster": "https://3.bp.blogspot.com/-0Gtd0QZB_nQ/VrHloPTCJAI/AAAAAAAAAOY/7DUg4WIFPcE/s320/Mungaru%2BMale.gif",
+      "trailer": "https://www.youtube.com/watch?v=16e5sw5hZpY",
+      "release": "2006",
+      "rating": "8.3",
+      "synopsis": "Mungaru Male is a Kannada romantic drama film starring Ganesh and Pooja Gandhi in lead roles. The movie was directed by Yograj Bhat and released in 2006. The story follows the love story of Preetham and Nandini, which is set in the backdrop of a beautiful hill station in Karnataka. The film's music, composed by Mano Murthy, became an instant hit and broke many records in the Kannada film industry."
+    },
+    {
+      "id": 72,
+      "moviename": "Gaalipata 2",
+      "hero": "Ganesh",
+      "heroine": "Shanvi Srivastava",
+      "director": "Yogaraj Bhat",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "romance-comedy",
+      "poster": "https://www.deccanherald.com/sites/dh/files/articleimages/2022/08/12/gaalipata-21-1135406-1660305833.jpg",
+      "trailer": "https://www.youtube.com/watch?v=7x0Bq_5BdjQ",
+      "release": "2021",
+      "rating": "7.0",
+      "synopsis": "Gaalipata 2 is a Kannada romantic comedy film starring Ganesh and Shanvi Srivastava in the lead roles. The movie was directed by Yogaraj Bhat and released in 2021. It is a sequel to the 2008 hit film Gaalipata. The story follows the journey of three friends who go on a road trip to find their true love."
+    },
+    {
+      "id": 73,
+      "moviename": "Khushi Khushiyagi",
+      "hero": "Ganesh",
+      "heroine": "Amulya",
+      "director": "Yogi G Raj",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "romance-comedy",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTFiYjdkOWUtZDhkZi00ZmYwLTkwYmQtOTIwMDc0OWViYWU2XkEyXkFqcGdeQXVyMTA4NDIzMTY1._V1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=5VAcwuysBYc",
+      "release": "2015",
+      "rating": "7.3",
+      "synopsis": "Khushi Khushiyagi is a romantic comedy Kannada movie starring Ganesh and Amulya in lead roles. The movie was directed by Yogi G Raj and released in 2015. The story follows the journey of a young man named Kush, who falls in love with a girl named Khushi. However, he faces many obstacles in trying to win her heart, including her disapproving father and a misunderstanding that leads to a breakup."
+    },
+    {
+      "moviename": "pathaan",
+      "hero": "sharukh khan",
+      "heroine": "deepika",
+      "director": "yash chopra",
+      "genre": "action",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/c/c3/Pathaan_film_poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=vqu4z34wENw",
+      "release": "2023",
+      "rating": "8.3",
+      "synopsis": "A soldier caught by enemies and presumed dead comes back to complete his mission, accompanied by old companions and foes.",
+      "languages": [
+        "add selected langusages"
+      ],
+      "id": 74
+    },
+    {
+      "moviename": "kisi ka bhai kisi ki jaan",
+      "hero": "salman khan ",
+      "heroine": "pooja hedge",
+      "director": "farhad samji",
+      "genre": "",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Kisi_Ka_Bhai_Kisi_Ki_Jaan_poster.jpg/220px-Kisi_Ka_Bhai_Kisi_Ki_Jaan_poster.jpg",
+      "trailer": "https://youtu.be/bsi8_9EoYyg",
+      "release": "2023",
+      "rating": "7",
+      "synopsis": "Two younger siblings must wait to marry until their elder brother becomes attached, but he's ageing and still a bachelor",
+      "languages": [
+        "add selected langusages"
+      ],
+      "id": 75
+    },
+    {
+      "id": 76,
+      "moviename": "English Vinglish",
+      "hero": "Sridevi",
+      "heroine": "",
+      "director": "Gauri Shinde",
+      "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "genre": "comedy",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/6/6e/English_Vinglish_poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=wmGVVtKX9QU",
+      "release": "2012",
+      "rating": "7.9",
+      "synopsis": "English Vinglish is a comedy-drama film directed by Gauri Shinde and released in 2012. The film stars Sridevi as Shashi, a middle-aged Indian woman who enrolls in an English language course to please her husband and family. Despite facing cultural and language barriers, Shashi discovers her own self-worth and learns to stand up for herself. The film explores themes of gender roles, identity, and family dynamics."
+    },
+    {
+      "id": 77,
+      "moviename": "Oh My God",
+      "hero": "Paresh Rawal",
+      "heroine": "N/A",
+      "director": "Umesh Shukla",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "comedy-drama",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/e/e0/OMG_Poster.png",
+      "trailer": "https://www.youtube.com/watch?v=8nUwpoTrWFw",
+      "release": "2012",
+      "rating": "8.1",
+      "synopsis": "Oh My God is a comedy-drama Hindi film directed by Umesh Shukla and released in 2012. The film stars Paresh Rawal as Kanji Lalji Mehta, a businessman who takes God to court after his shop is destroyed in an earthquake and his insurance company refuses to compensate him. The film explores themes of faith, religion, and spirituality, and features cameos by several Bollywood actors playing themselves in a satirical take on the commercialization of religion."
+    },
+    {
+      "id": 78,
+      "moviename": "Jab We Met",
+      "hero": "Shahid Kapoor",
+      "heroine": "Kareena Kapoor Khan",
+      "director": "Imtiaz Ali",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "romantic-comedy",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/jab-we-met-et00000182-1681714389.jpg",
+      "trailer": "https://www.youtube.com/watch?v=i9DQgI7Y4rs",
+      "release": "2007",
+      "rating": "8.0",
+      "synopsis": "Jab We Met is a romantic-comedy Hindi film directed by Imtiaz Ali and released in 2007. The film stars Shahid Kapoor and Kareena Kapoor Khan in lead roles. The story follows the journey of a depressed businessman named Aditya Kashyap, who meets a lively and free-spirited girl named Geet Dhillon on a train journey. The two embark on a road trip together and their relationship evolves as they navigate various challenges and obstacles. The film explores themes of self-discovery, love, and relationships."
+    },
+    {
+      "id": 79,
+      "moviename": "Golmaal: Fun Unlimited",
+      "hero": "Ajay Devgn",
+      "heroine": "Rimi Sen",
+      "director": "Rohit Shetty",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "comedy",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYmE3YmNiM2YtM2MxMi00ZDhmLTk1ZTQtODdjOWY4YjVkYThmXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_FMjpg_UX1000_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=66TuSJo4dZM",
+      "release": "2006",
+      "rating": "7.4",
+      "synopsis": "Golmaal: Fun Unlimited is a Hindi comedy film directed by Rohit Shetty and released in 2006. The film stars Ajay Devgn and Rimi Sen in lead roles. The story follows the misadventures of a group of friends who get involved in a series of comedic situations and misunderstandings. The film features a lighthearted and slapstick style of humor, and explores themes of friendship, loyalty, and family."
+    },
+    {
+      "id": 80,
+      "moviename": "Welcome",
+      "hero": "Akshay Kumar",
+      "heroine": "Katrina Kaif",
+      "director": "Anees Bazmee",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "comedy",
+      "poster": "https://laughingcolours.com/wp-content/uploads/2019/06/Welcome-Movie-Poster.jpg",
+      "trailer": "https://www.youtube.com/watch?v=FZ_x6LdDM6o",
+      "release": "2007",
+      "rating": "6.9",
+      "synopsis": "Welcome is a Hindi comedy film directed by Anees Bazmee and released in 2007. The film stars Akshay Kumar and Katrina Kaif in lead roles, and features an ensemble cast of actors. The story follows the misadventures of two rival gangs who attempt to outdo each other in order to win the favor of a wealthy businessman. The film features a fast-paced and slapstick style of humor, and explores themes of family, loyalty, and love."
+    },
+    {
+      "id": 81,
+      "moviename": "Partner",
+      "hero": "Salman Khan",
+      "heroine": "Katrina Kaif",
+      "director": "David Dhawan",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "romantic-comedy",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmRmZTcwZjUtM2E1Yy00NzdiLTg3OGEtMDgwYWQ2ZTlmN2YyXkEyXkFqcGdeQXVyMjY1MjkzMjE@._V1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=eq5j5u5A5cE",
+      "release": "2007",
+      "rating": "6.7",
+      "synopsis": "Partner is a romantic-comedy Hindi film directed by David Dhawan and released in 2007. The film stars Salman Khan and Katrina Kaif in lead roles, and features Govinda in a supporting role. The story follows the exploits of a love guru named Prem who helps a nerdy young man named Bhaskar to woo and win over his dream girl, Priya. The film features a mix of slapstick humor and romantic elements, and explores themes of love, friendship, and self-discovery."
+    },
+    {
+      "id": 82,
+      "moviename": "De Dana Dan",
+      "hero": "Akshay Kumar",
+      "heroine": "Katrina Kaif",
+      "director": "Priyadarshan",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "comedy",
+      "poster": "https://stat5.bollywoodhungama.in/wp-content/uploads/2016/03/50352458.jpg",
+      "trailer": "https://www.youtube.com/watch?v=UOg6lBcCR2s",
+      "release": "2009",
+      "rating": "5.2",
+      "synopsis": "De Dana Dan is a Hindi comedy film directed by Priyadarshan and released in 2009. The film stars Akshay Kumar and Katrina Kaif in lead roles, and features an ensemble cast of actors. The story follows the misadventures of two friends who hatch a plan to get rich quick by kidnapping a wealthy businessman's dog. However, their plan quickly spirals out of control, leading to a series of comedic situations and misunderstandings. The film features a fast-paced and slapstick style of humor, and explores themes of love, friendship, and greed."
+    },
+    {
+      "id": 83,
+      "moviename": "Hera Pheri",
+      "hero": "Akshay Kumar",
+      "heroine": "Tabu",
+      "director": "Priyadarshan",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "comedy",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDExMTBlZTYtZWMzYi00NmEwLWEzZGYtOTA1MDhmNTc0ODZkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=7T2vsMUToSg",
+      "release": "2000",
+      "rating": "8.2",
+      "synopsis": "Hera Pheri is a classic Hindi comedy film directed by Priyadarshan and released in 2000. The film stars Akshay Kumar, Paresh Rawal, and Suniel Shetty in lead roles, and features Tabu in a supporting role. The story follows three struggling men who come together to get rich quick by answering a wrong number call that leads to a kidnapping plot. However, their plan quickly goes awry, leading to a series of hilarious situations and misunderstandings. The film features a fast-paced and witty style of humor, and explores themes of friendship, loyalty, and greed."
+    },
+    {
+      "id": 84,
+      "moviename": "The Legend of Bhagat Singh",
+      "hero": "Ajay Devgn",
+      "heroine": "None",
+      "director": "Rajkumar Santoshi",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "biographical-action",
+      "poster": "https://m.media-amazon.com/images/I/81Eg6lqjfML._SY606_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=d7MkxEIo8xE",
+      "release": "2002",
+      "rating": "8.1",
+      "synopsis": "The Legend of Bhagat Singh is a Hindi biographical drama film directed by Rajkumar Santoshi and released in 2002. The film stars Ajay Devgn in the lead role, and chronicles the life and struggle of Indian freedom fighter Bhagat Singh. The story follows Bhagat Singh's journey from his youth to his involvement in the Indian independence movement, and his eventual execution by the British colonial government. The film explores themes of patriotism, sacrifice, and rebellion, and is widely regarded as a powerful and moving tribute to one of India's greatest freedom fighters."
+    },
+    {
+      "id": 85,
+      "moviename": "Bhaag Milkha Bhaag",
+      "hero": "Farhan Akhtar",
+      "heroine": "Sonam Kapoor",
+      "director": "Rakeysh Omprakash Mehra",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "biographical-sports-drama",
+      "poster": "https://media5.bollywoodhungama.in/wp-content/uploads/2016/03/74637391.jpg",
+      "trailer": "https://www.youtube.com/watch?v=u-j1nx_HY5o",
+      "release": "2013",
+      "rating": "8.2",
+      "synopsis": "Bhaag Milkha Bhaag is a biographical sports drama film based on the life of Indian athlete Milkha Singh, directed by Rakeysh Omprakash Mehra and released in 2013. The film stars Farhan Akhtar in the lead role, with Sonam Kapoor in a supporting role. The story follows Milkha Singh's journey from his childhood as a refugee during the partition of India, to becoming one of the country's greatest athletes and representing India in international competitions. The film explores themes of perseverance, determination, and the power of the human spirit, and is widely regarded as one of the best sports films ever made in India."
+    },
+    {
+      "id": 86,
+      "moviename": "M.S. Dhoni: The Untold Story",
+      "hero": "Sushant Singh Rajput",
+      "heroine": "Kiara Advani",
+      "director": "Neeraj Pandey",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "biographical-sports-drama",
+      "poster": "https://images.indianexpress.com/2016/09/ms-dhoni-review-480.jpg",
+      "trailer": "https://www.youtube.com/watch?v=6L6XqWoS8tw",
+      "release": "2016",
+      "rating": "7.8",
+      "synopsis": "M.S. Dhoni: The Untold Story is a biographical sports drama film based on the life of Indian cricketer M.S. Dhoni, directed by Neeraj Pandey and released in 2016. The film stars Sushant Singh Rajput in the lead role, with Kiara Advani in a supporting role. The story follows Dhoni's journey from a small town boy in Ranchi to becoming the captain of the Indian cricket team and leading them to victory in the 2011 World Cup. The film explores Dhoni's struggles, his rise to fame, and his personal life, and is widely regarded as a well-made biopic that does justice to the inspiring story of one of India's greatest cricketers."
+    },
+    {
+      "id": 87,
+      "moviename": "Kempegowda",
+      "hero": "Sudeep",
+      "heroine": "Ragini Dwivedi",
+      "director": "Sudeep",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "action-thriller",
+      "poster": "https://rukminim1.flixcart.com/image/416/416/av-media/movies/c/n/a/kempegowda-original-imad7scfxnafg8gh.jpeg?q=70",
+      "trailer": "https://www.youtube.com/watch?v=Q4a3qfzUe00",
+      "release": "2011",
+      "rating": "7.5",
+      "synopsis": "Kempegowda is an action thriller Kannada movie directed by and starring Sudeep in the lead role, along with Ragini Dwivedi in a supporting role. The film was released in 2011 and is based on the life of Kempegowda, a 16th century feudatory ruler of the Vijayanagara Empire. The story follows the life of a police officer named Kempegowda, who is tough and uncompromising in his fight against crime and corruption. He clashes with a powerful politician and criminal gang leader, and the film depicts their intense struggle for power and control. The film is known for its gripping storyline, intense action scenes, and powerful performances by the lead actors."
+    },
+    {
+      "id": 88,
+      "moviename": "Yajamana",
+      "hero": "Vishnuvardhan",
+      "heroine": "Prema",
+      "director": "R. Sheshadri",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "family",
+      "poster": "https://i.ytimg.com/vi/ixOgqVNrxzs/maxresdefault.jpg",
+      "trailer": "https://www.youtube.com/watch?v=JzHHTrI_jM0",
+      "release": "2000",
+      "rating": "8.2",
+      "synopsis": "Yajamana is a Kannada action-drama movie released in 2000, starring legendary actor Vishnuvardhan and Prema in lead roles. Directed by R. Sheshadri, the film tells the story of a brave and honest man named Vishnu, who takes on corrupt politicians and powerful businessmen who are exploiting the poor and the downtrodden. The movie highlights the struggle of the common man against the oppressive system and showcases the power of standing up for what is right. The film was a commercial and critical success and is considered to be one of the finest movies in Kannada cinema history."
+    },
+    {
+      "moviename": "azhar",
+      "hero": "emran hashmi",
+      "heroine": "nagris fakri",
+      "director": "tony d szouza",
+      "languages": [
+        "telugu",
+        "hindi"
+      ],
+      "genre": "sports",
+      "poster": "https://images.fandango.com/ImageRenderer/820/0/redesign/static/img/default_poster.png/0/images/masterrepository/fandango/191960/Azharposter1.jpg",
+      "trailer": "https://youtu.be/C1MOI8vaQos",
+      "release": "2016",
+      "rating": "6",
+      "synopsis": "Azhar Mohammad, who belongs to a middle class family, becomes an eminent cricketer. However, accusations of match-fixing begin to jeopardise his reputation.",
+      "id": 89
+    }
+  ]
+}
